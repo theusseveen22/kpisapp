@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200&family=Oswald:wght@200;300;400;500;600;700&display=swap');
+
+.body-css {
+    background-image: url('../images/bodyimage.png');
+    height: 620px;
+    width: 100%;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    align-content: center;
+    align-items: center;
+}
+
+.left-content {
+    width: 40%;
+    padding: 5%;
+    font-family: 'Oswald', sans-serif;
+}
+
+.left-content h4 {
+    font-size: 25px;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.right-content {
+    display: flex;
+    width: 40%;
+    padding: 5%;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+.icon-test {
+    height: 50px;
+    width: 200px;
+    border-radius: 10px;
+    background-color: #0067ac;
+    color: antiquewhite;
+    margin: 5px;
+    font-size: 20px;
+    display: flex;
+    align-content: center;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon-admin {
+    height: 50px;
+    width: 200px;
+    border-radius: 10px;
+    margin: 5px;
+    background-color: #0067ac;
+    color: antiquewhite;
+    font-size: 20px;
+    display: flex;
+    align-content: center;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon-abaut {
+    height: 50px;
+    width: 200px;
+    border-radius: 10px;
+    margin: 5px;
+    background-color: #0067ac;
+    color: antiquewhite;
+    font-size: 20px;
+    display: flex;
+    align-content: center;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
