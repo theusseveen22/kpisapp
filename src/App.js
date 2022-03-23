@@ -5,6 +5,7 @@ import { Routes, Route} from 'react-router-dom'
 import Administration from './pages/Administration';
 import Search from './pages/Search';
 import Thanks from './pages/Thanks'
+import Aboult from './pages/Aboult';
 import './style.css'
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
           <Route exact path="/admin" element={<Administration />}/>
           <Route exact path="/search" element={<Search />}/>
           <Route exact path="/thanks" element={<Thanks />}/>
+          <Route exact path="/aboult" element={<Aboult />}/>
         </Routes>
     </div>
   );

@@ -1,0 +1,16 @@
+.conteiner {
+    padding: 30px;
+    border-top: solid 30px;
+    border-top: solid rgb(5, 56, 77) 50px;
+    background-color: rgb(194, 210, 224);
+
+}
+
+.conteiner h2 {
+    text-align: center;
+    
+}
+
+.conteiner a {
+    color: rgb(6, 18, 34);
+}

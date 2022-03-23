@@ -56,7 +56,7 @@ export default function Graphs() {
     return (
       <div className='graph-control'>
     <div className='graph-pi'>
-    <h5>Gráfico número de funcionários</h5>
+    <h5>Gráfico número de pessoas nos grupos</h5>
       <MyResponsivePie data={dataGraph} />
     </div>
     <div className='media'>

@@ -11,7 +11,6 @@ export default function ButtonChange() {
     const referenceCollectionNumber = collection(db, "numeroempregados")
     const referenceCollectionNivel = collection(db, "satisfaction")
     const { nivelValue, quantEmployer } = useContext(Context)
-    console.log(nivelValue)
 
     const btnAtiv = () => {
         if (nivelValue && quantEmployer.length > 0 ) return false

@@ -17,7 +17,7 @@ export default function body() {
     <div className='right-content'>
     <div className='icon-test'><Link to="search">Iniciar pequisa</Link></div>
     <div className='icon-admin'><Link to="login">Administrador</Link></div>
-    <div className='icon-abaut'>Sobre</div>
+    <div className='icon-aboult'><Link to="aboult">Sobre</Link></div>
     </div>
     </div>
   )
