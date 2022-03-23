@@ -8,6 +8,7 @@ import { addDoc, collection } from '@firebase/firestore';
 
 
 export default function ButtonChange() {
+  
     const referenceCollectionNumber = collection(db, "numeroempregados")
     const referenceCollectionNivel = collection(db, "satisfaction")
     const { nivelValue, quantEmployer } = useContext(Context)
