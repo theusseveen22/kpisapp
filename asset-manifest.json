@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/kpisapp/static/css/main.9ac3fe52.css",
+    "main.js": "/kpisapp/static/js/main.a2553dfc.js",
+    "static/js/787.741be400.chunk.js": "/kpisapp/static/js/787.741be400.chunk.js",
+    "static/media/bodyimage.png": "/kpisapp/static/media/bodyimage.4e668c37c46a8d81a58b.png",
+    "static/media/coffee.gif": "/kpisapp/static/media/coffee.0b803b068d62b287a783.gif",
+    "index.html": "/kpisapp/index.html",
+    "main.9ac3fe52.css.map": "/kpisapp/static/css/main.9ac3fe52.css.map",
+    "main.a2553dfc.js.map": "/kpisapp/static/js/main.a2553dfc.js.map",
+    "787.741be400.chunk.js.map": "/kpisapp/static/js/787.741be400.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ac3fe52.css",
+    "static/js/main.a2553dfc.js"
+  ]
+}
