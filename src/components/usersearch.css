@@ -1,0 +1,10 @@
+.search {
+    margin: 15px;
+    width: 700px;
+    height: 400px;
+    background-color: #ffffff;
+    padding: 15px;
+    border-right: solid 10px rgb(16, 91, 204);
+    border-radius: 3px;
+    color: rgb(16, 91, 204);
+}

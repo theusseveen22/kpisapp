@@ -1,0 +1,13 @@
+.action {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    align-content: flex-start;
+    margin: 15px;
+    height: 100px;
+}
+
+.ul-control li {
+    list-style: none;
+}
