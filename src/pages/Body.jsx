@@ -1,5 +1,6 @@
 import React from 'react'
 import '../pages/body.css'
+import { Link } from 'react-router-dom'
 
 export default function body() {
   return (
@@ -14,8 +15,8 @@ export default function body() {
       </h4>
     </div>
     <div className='right-content'>
-    <div className='icon-test'>Iniciar pequisa</div>
-    <div className='icon-admin'>Administrador</div>
+    <div className='icon-test'><Link to="search">Iniciar pequisa</Link></div>
+    <div className='icon-admin'><Link to="login">Administrador</Link></div>
     <div className='icon-abaut'>Sobre</div>
     </div>
     </div>

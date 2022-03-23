@@ -1,0 +1,11 @@
+.thanks-control {
+    background-color: #f5f4e1ff;
+    width: auto;
+    height: 100vh;
+    display: flex;
+    padding: 30px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+}
