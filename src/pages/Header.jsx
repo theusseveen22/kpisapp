@@ -9,7 +9,7 @@ export default function Header() {
     <h5>Key People Insights</h5>
     </div>
     <div className='text-header-area'>
-        <h6>Teste de qualidade Kpis</h6>
+        <h5>Teste de qualidade Kpis</h5>
     </div>
     </div>
   )

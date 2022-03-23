@@ -57,11 +57,12 @@ const deleteClick = async (id) => {
     <div className='ul-control'>
       { dataActions.map((itens) =>
         <ul key={ itens.id }>
-          <li>{ itens.nameActions } <Stack spacing={2} direction="row">
-      <Button variant="contained"
+          <li>{ itens.nameActions }<span className='button'><Button 
+      variant="contained"
       onClick={ () => deleteClick(itens.id) }
-      >Concluir</Button>
-    </Stack></li>
+      >Concluir</Button></span>
+          
+          </li>
         </ul>
       )  
     }

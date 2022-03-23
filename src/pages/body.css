@@ -40,7 +40,6 @@
     width: 200px;
     border-radius: 10px;
     background-color: #0067ac;
-    color: antiquewhite;
     margin: 5px;
     font-size: 20px;
     display: flex;
@@ -49,6 +48,18 @@
     flex-direction: row;
     justify-content: center;
     align-items: center;
+}
+
+.icon-test a {
+    text-decoration: none;
+    color: antiquewhite;
+}
+
+.icon-test a:hover {
+    text-decoration: none;
+    color: antiquewhite;
+    font-weight: bold;
+    font-size: larger;
 }
 
 .icon-admin {
@@ -67,7 +78,19 @@
     align-items: center;
 }
 
-.icon-abaut {
+.icon-admin a {
+    text-decoration: none;
+    color: antiquewhite;
+}
+
+.icon-admin a:hover {
+    text-decoration: none;
+    color: antiquewhite;
+    font-weight: bold;
+    font-size: larger;
+}
+
+.icon-aboult {
     height: 50px;
     width: 200px;
     border-radius: 10px;
@@ -81,4 +104,16 @@
     flex-direction: row;
     justify-content: center;
     align-items: center;
+}
+
+.icon-aboult a {
+    text-decoration: none;
+    color: antiquewhite;
+}
+
+.icon-aboult a:hover {
+    text-decoration: none;
+    color: antiquewhite;
+    font-weight: bold;
+    font-size: larger;
 }

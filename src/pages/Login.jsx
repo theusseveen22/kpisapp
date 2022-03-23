@@ -5,7 +5,7 @@ import './login.css'
 export default function Administrator() {
   return (
     <div className='login'>
-        <Login />
+        <Login /> 
     </div>
   )
 }

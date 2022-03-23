@@ -1,0 +1,10 @@
+.footer {
+    height: 100px;
+    width: auto;
+    background-color: rgb(5, 39, 78);
+    color: aliceblue;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+}
